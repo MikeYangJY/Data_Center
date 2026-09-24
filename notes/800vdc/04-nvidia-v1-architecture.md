@@ -4,7 +4,7 @@
 
 **阅读提示：** 这是第一版白皮书的既有笔记。原笔记中标为个人补充的内容，以及有条件的效率、导体利用率比较，应与NVIDIA原文观点区分。
 
-[返回学习目录](../../README.md) · [查看原Word笔记](../../originals/04_NVIDIA_800VDC_Architecture_Key_Notes.docx)
+[返回学习目录](../../README.md) · [通篇逻辑梳理](../../STUDY_MAP.md) · [查看原Word笔记](../../originals/04_NVIDIA_800VDC_Architecture_Key_Notes.docx)
 
 **对应原文：** [原文PDF](../../references/nvidia-800vdc-architecture-v1.pdf) · [原文网站](https://www.nvidia.com/en-us/data-center/technologies/800-vdc-architecture/)
 

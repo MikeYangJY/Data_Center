@@ -4,7 +4,7 @@
 
 **阅读提示：** 先区分设备的功能与安装位置，再讨论技术变化是否会取消某个产品。
 
-[返回学习目录](../../README.md) · [查看原Word笔记](../../originals/01_Data_Center_Power_and_Electrical_Infra_Basics.docx)
+[返回学习目录](../../README.md) · [通篇逻辑梳理](../../STUDY_MAP.md) · [查看原Word笔记](../../originals/01_Data_Center_Power_and_Electrical_Infra_Basics.docx)
 
 **对应原文：** [原文HTML归档](../../references/semianalysis-datacenter-anatomy-1-electrical.html) · [原文网站](https://newsletter.semianalysis.com/p/datacenter-anatomy-part-1-electrical)
 

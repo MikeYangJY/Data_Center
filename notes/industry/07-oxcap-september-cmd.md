@@ -4,7 +4,7 @@
 
 **阅读提示：** 来源日期为2026年9月22日。原文中的SST规模和效率口径存在不一致，核对事项保留在笔记中。
 
-[返回学习目录](../../README.md) · [查看原Word笔记](../../originals/07_Oxcap_800VDC_CMD_Notes.docx)
+[返回学习目录](../../README.md) · [通篇逻辑梳理](../../STUDY_MAP.md) · [查看原Word笔记](../../originals/07_Oxcap_800VDC_CMD_Notes.docx)
 
 **对应原文：** [原文PDF](../../references/oxcap-800vdc-cmd-debate-2026-09-22.pdf) · [出版方网站](https://oxcapanalytics.com/)
 

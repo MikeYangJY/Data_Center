@@ -4,7 +4,7 @@
 
 **阅读提示：** 本文基于2025年的来源材料；功率、风量和容量数字应按案例条件理解。
 
-[返回学习目录](../../README.md) · [查看原Word笔记](../../originals/02_Data_Center_Cooling_System_Basics%20%28Semi%29.docx)
+[返回学习目录](../../README.md) · [通篇逻辑梳理](../../STUDY_MAP.md) · [查看原Word笔记](../../originals/02_Data_Center_Cooling_System_Basics%20%28Semi%29.docx)
 
 **对应原文：** [原文HTML归档](../../references/semianalysis-datacenter-anatomy-2-cooling.html) · [原文网站](https://newsletter.semianalysis.com/p/datacenter-anatomy-part-2-cooling-systems)
 

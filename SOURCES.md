@@ -1,6 +1,6 @@
 # 原文文件、链接与对应笔记
 
-[返回学习目录](README.md)
+[返回学习目录](README.md) · [通篇逻辑梳理](STUDY_MAP.md)
 
 | 原文 | 日期/版本 | 文件与链接 | 对应笔记 |
 | --- | --- | --- | --- |
@@ -10,7 +10,7 @@
 | NVIDIA — 800 VDC Architecture for Next-Generation AI Infrastructure | 2025-10 | [PDF](references/nvidia-800vdc-architecture-v1.pdf) · [原文网站](https://www.nvidia.com/en-us/data-center/technologies/800-vdc-architecture/) | [04 · 对应笔记](notes/800vdc/04-nvidia-v1-architecture.md) |
 | Oxcap — 800V DC Datacenter Transition | 2026-06-02 | [PDF](references/oxcap-800vdc-transition-2026-06-02.pdf) · [出版方网站](https://oxcapanalytics.com/) | [06 · 对应笔记](notes/industry/06-oxcap-june-transition.md) |
 | Oxcap — ABB/Legrand CMDs and the 800V DC debate: Asking the right questions | 2026-09-22 | [PDF](references/oxcap-800vdc-cmd-debate-2026-09-22.pdf) · [出版方网站](https://oxcapanalytics.com/) | [07 · 对应笔记](notes/industry/07-oxcap-september-cmd.md) |
-| SemiAnalysis — Stop Saying Half of 2026 US Datacenter Capacity Is Canceled | 2026-06-18 | [完整38页PDF分段目录](references/README.md#capacity-pdf) · [原文网站](https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter) | 新增建设与容量研究资料；尚未单独整理笔记 |
+| SemiAnalysis — Stop Saying Half of 2026 US Datacenter Capacity Is Canceled | 2026-06-18 | [完整38页PDF分段目录](references/README.md#capacity-pdf) · [原文网站](https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter) | [总梳理第7节：建设兑现](STUDY_MAP.md#delivery) · [第8节：设备利润](STUDY_MAP.md#profit) |
 
 03是综合多份资料形成的个人逻辑整理，主要衔接NVIDIA第一版、SemiAnalysis的迁移框架及下面的补充资料。06和07分别对应Oxcap六月与九月的两篇报告。
 

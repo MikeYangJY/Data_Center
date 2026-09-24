@@ -4,7 +4,7 @@
 
 **阅读提示：** 提高配电电压与减少转换级数是两项不同收益；过渡方案未必同时实现。
 
-[返回学习目录](../../README.md) · [查看原Word笔记](../../originals/03_Why_AI_Data_Center_Are_Moving_to_800VDC%20%28Personal%29.docx)
+[返回学习目录](../../README.md) · [通篇逻辑梳理](../../STUDY_MAP.md) · [查看原Word笔记](../../originals/03_Why_AI_Data_Center_Are_Moving_to_800VDC%20%28Personal%29.docx)
 
 **对应资料：** [NVIDIA第一版PDF](../../references/nvidia-800vdc-architecture-v1.pdf) · [SemiAnalysis 800VDC原文归档](../../references/semianalysis-800vdc-revolution-part-1.html) · [完整来源目录](../../SOURCES.md)
 

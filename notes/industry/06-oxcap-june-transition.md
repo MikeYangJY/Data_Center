@@ -4,7 +4,7 @@
 
 **阅读提示：** 来源日期为2026年6月2日；应与九月CMD报告分开阅读，厂商判断保留当时归属。
 
-[返回学习目录](../../README.md) · [查看原Word笔记](../../originals/06_Oxcap_800VDC_Notes.docx)
+[返回学习目录](../../README.md) · [通篇逻辑梳理](../../STUDY_MAP.md) · [查看原Word笔记](../../originals/06_Oxcap_800VDC_Notes.docx)
 
 **对应原文：** [原文PDF](../../references/oxcap-800vdc-transition-2026-06-02.pdf) · [出版方网站](https://oxcapanalytics.com/)
 

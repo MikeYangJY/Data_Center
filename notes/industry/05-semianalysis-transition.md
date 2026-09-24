@@ -4,7 +4,7 @@
 
 **阅读提示：** 来源日期为2026年5月26日。阶段时间、市场规模与成本均为当时的报告预测或模型假设。
 
-[返回学习目录](../../README.md) · [查看原Word笔记](../../originals/05_SemiAnalysis_800VDC_Transition_Notes.docx)
+[返回学习目录](../../README.md) · [通篇逻辑梳理](../../STUDY_MAP.md) · [查看原Word笔记](../../originals/05_SemiAnalysis_800VDC_Transition_Notes.docx)
 
 **对应原文：** [原文HTML归档](../../references/semianalysis-800vdc-revolution-part-1.html) · [原文网站](https://newsletter.semianalysis.com/p/inside-the-800vdc-revolution-part)
 
