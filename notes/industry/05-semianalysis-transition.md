@@ -6,6 +6,8 @@
 
 [返回学习目录](../../README.md) · [查看原Word笔记](../../originals/05_SemiAnalysis_800VDC_Transition_Notes.docx)
 
+**对应原文：** [原文HTML归档](../../references/semianalysis-800vdc-revolution-part-1.html) · [原文网站](https://newsletter.semianalysis.com/p/inside-the-800vdc-revolution-part)
+
 ---
 
 **Key Reading Notes**

@@ -6,6 +6,8 @@
 
 [返回学习目录](../../README.md) · [查看原Word笔记](../../originals/03_Why_AI_Data_Center_Are_Moving_to_800VDC%20%28Personal%29.docx)
 
+**对应资料：** [NVIDIA第一版PDF](../../references/nvidia-800vdc-architecture-v1.pdf) · [SemiAnalysis 800VDC原文归档](../../references/semianalysis-800vdc-revolution-part-1.html) · [完整来源目录](../../SOURCES.md)
+
 ---
 
 **Why AI data centers need a new power-delivery architecture**

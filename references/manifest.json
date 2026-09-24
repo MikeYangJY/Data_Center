@@ -1,0 +1,92 @@
+[
+  {
+    "file": "semianalysis-datacenter-anatomy-1-electrical.html",
+    "title": "Datacenter Anatomy Part 1: Electrical Systems",
+    "date": "2024-10-14",
+    "note": "01",
+    "source_url": "https://newsletter.semianalysis.com/p/datacenter-anatomy-part-1-electrical",
+    "provided_filename": "Semi_Analysis - Datacenter Anatomy Part1 - Electrical System.html",
+    "provided_sha256": "abff3d6ae57886bb9bc2db37d49c4e9b640d2782b3faf923395512c7ac9ec892",
+    "archived_sha256": "79683c8d69298cd7e3eb3e87d12a91d87fb91ebf6dcc214fca7a07ff9a684eb8",
+    "format": "HTML article archive",
+    "fixed_local_image_paths": 0,
+    "images": 34,
+    "scope": "Content present in provided saved HTML; remote image links retained."
+  },
+  {
+    "file": "semianalysis-datacenter-anatomy-2-cooling.html",
+    "title": "Datacenter Anatomy Part 2 – Cooling Systems",
+    "date": "2025-02-13",
+    "note": "02",
+    "source_url": "https://newsletter.semianalysis.com/p/datacenter-anatomy-part-2-cooling-systems",
+    "provided_filename": "Semi_Analysis - Datacenter Anatomy Part 2 – Cooling Systems.html.1",
+    "provided_sha256": "b8d4a2efecf99c50ed334e10ca94114ad55c6fa14847a4713964755074e03e32",
+    "archived_sha256": "e96ef9a042fda060e136e23aee2883a6f51e33afafa91cb73fa1e0134ec1837b",
+    "format": "HTML article archive",
+    "fixed_local_image_paths": 66,
+    "images": 0,
+    "scope": "Content present in provided saved HTML; remote image links retained."
+  },
+  {
+    "file": "semianalysis-800vdc-revolution-part-1.html",
+    "title": "Inside the 800VDC Revolution – Part 1",
+    "date": "2026-05-26",
+    "note": "05",
+    "source_url": "https://newsletter.semianalysis.com/p/inside-the-800vdc-revolution-part",
+    "provided_filename": "Semi_Analysis - Inside the 800VDC Revolution – Part 1.html.1",
+    "provided_sha256": "bedc9d5c19636aff0a8d7c82d6f51e88bae8edec07ab6ab295ec5c5005b9ea9d",
+    "archived_sha256": "6e6ea2e89f410624c3b3d1f030724c29eff51790cf63e3b95d2f2c45823b9040",
+    "format": "HTML article archive",
+    "fixed_local_image_paths": 55,
+    "images": 0,
+    "scope": "Content present in provided saved HTML; remote image links retained."
+  },
+  {
+    "file": "nvidia-800vdc-architecture-v1.pdf",
+    "title": "NVIDIA — 800 VDC Architecture for Next-Generation AI Infrastructure",
+    "date": "2025-10",
+    "note": "04",
+    "source_url": "https://www.nvidia.com/en-us/data-center/technologies/800-vdc-architecture/",
+    "provided_filename": "800-vdc-architecture-for-ai-infrastructure (1).pdf",
+    "provided_sha256": "08571f9ece9c9ded9b742a04e9314c7cc66377db752755fdeb694e3a7356a8d8",
+    "archived_sha256": "08571f9ece9c9ded9b742a04e9314c7cc66377db752755fdeb694e3a7356a8d8",
+    "format": "PDF unchanged",
+    "pages": 18
+  },
+  {
+    "file": "oxcap-800vdc-transition-2026-06-02.pdf",
+    "title": "Oxcap — 800V DC Datacenter Transition",
+    "date": "2026-06-02",
+    "note": "06",
+    "source_url": "https://oxcapanalytics.com/",
+    "provided_filename": "Oxcap Analytics - 800V Datacentre Analysis.pdf",
+    "provided_sha256": "e6af03898eb152c4b4cb650c582a2a6e4d5b3ca68ebe793545bfaddae8cf2462",
+    "archived_sha256": "e6af03898eb152c4b4cb650c582a2a6e4d5b3ca68ebe793545bfaddae8cf2462",
+    "format": "PDF unchanged",
+    "pages": 13
+  },
+  {
+    "file": "oxcap-800vdc-cmd-debate-2026-09-22.pdf",
+    "title": "Oxcap — ABB/Legrand CMDs and the 800V DC debate: Asking the right questions",
+    "date": "2026-09-22",
+    "note": "07",
+    "source_url": "https://oxcapanalytics.com/",
+    "provided_filename": "Oxcap Analytics - CMDs and the 800V DC debate Asking the right questions (092226).pdf",
+    "provided_sha256": "b306b448ef9a672cb7bd0454b317b80c06e7f258358ee0aa3f9259321417027b",
+    "archived_sha256": "b306b448ef9a672cb7bd0454b317b80c06e7f258358ee0aa3f9259321417027b",
+    "format": "PDF unchanged",
+    "pages": 37
+  },
+  {
+    "file": "semianalysis-us-datacenter-capacity-2026-06-18.pdf",
+    "title": "SemiAnalysis — Stop Saying Half of 2026 US Datacenter Capacity Is Canceled",
+    "date": "2026-06-18",
+    "note": null,
+    "source_url": "https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter",
+    "provided_filename": "Semi_Analysis - Stop Saying Half of 2026 US Datacenter Capacity Is Canceled(1).pdf",
+    "provided_sha256": "c232eac9160b85b700980b9bb6020b28ddd1a5816df117179b8d849153b6a758",
+    "archived_sha256": "c232eac9160b85b700980b9bb6020b28ddd1a5816df117179b8d849153b6a758",
+    "format": "PDF unchanged",
+    "pages": 38
+  }
+]

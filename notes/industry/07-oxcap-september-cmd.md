@@ -6,6 +6,8 @@
 
 [返回学习目录](../../README.md) · [查看原Word笔记](../../originals/07_Oxcap_800VDC_CMD_Notes.docx)
 
+**对应原文：** [原文PDF](../../references/oxcap-800vdc-cmd-debate-2026-09-22.pdf) · [出版方网站](https://oxcapanalytics.com/)
+
 ---
 
 **Reading Notes**

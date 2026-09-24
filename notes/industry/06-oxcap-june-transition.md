@@ -6,6 +6,8 @@
 
 [返回学习目录](../../README.md) · [查看原Word笔记](../../originals/06_Oxcap_800VDC_Notes.docx)
 
+**对应原文：** [原文PDF](../../references/oxcap-800vdc-transition-2026-06-02.pdf) · [出版方网站](https://oxcapanalytics.com/)
+
 ---
 
 **Reading Notes**

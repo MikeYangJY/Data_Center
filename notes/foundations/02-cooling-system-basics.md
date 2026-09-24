@@ -6,6 +6,8 @@
 
 [返回学习目录](../../README.md) · [查看原Word笔记](../../originals/02_Data_Center_Cooling_System_Basics%20%28Semi%29.docx)
 
+**对应原文：** [原文HTML归档](../../references/semianalysis-datacenter-anatomy-2-cooling.html) · [原文网站](https://newsletter.semianalysis.com/p/datacenter-anatomy-part-2-cooling-systems)
+
 ---
 
 **Notes based on** **SemiAnalysis（Cooling）, 2025**

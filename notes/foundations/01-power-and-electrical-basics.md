@@ -6,6 +6,8 @@
 
 [返回学习目录](../../README.md) · [查看原Word笔记](../../originals/01_Data_Center_Power_and_Electrical_Infra_Basics.docx)
 
+**对应原文：** [原文HTML归档](../../references/semianalysis-datacenter-anatomy-1-electrical.html) · [原文网站](https://newsletter.semianalysis.com/p/datacenter-anatomy-part-1-electrical)
+
 ---
 
 **How power moves from the grid to the chip**

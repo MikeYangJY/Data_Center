@@ -6,6 +6,8 @@
 
 [返回学习目录](../../README.md) · [查看原Word笔记](../../originals/04_NVIDIA_800VDC_Architecture_Key_Notes.docx)
 
+**对应原文：** [原文PDF](../../references/nvidia-800vdc-architecture-v1.pdf) · [原文网站](https://www.nvidia.com/en-us/data-center/technologies/800-vdc-architecture/)
+
 ---
 
 Whitepaper Reading Notes - Key Takeaways
