@@ -21,10 +21,10 @@
     "source_url": "https://newsletter.semianalysis.com/p/datacenter-anatomy-part-2-cooling-systems",
     "provided_filename": "Semi_Analysis - Datacenter Anatomy Part 2 – Cooling Systems.html.1",
     "provided_sha256": "b8d4a2efecf99c50ed334e10ca94114ad55c6fa14847a4713964755074e03e32",
-    "archived_sha256": "e96ef9a042fda060e136e23aee2883a6f51e33afafa91cb73fa1e0134ec1837b",
+    "archived_sha256": "27f7b7a7c78dea6f3b091300cc0b6ae404c8530e457a407f215eb221af20687a",
     "format": "HTML article archive",
     "fixed_local_image_paths": 66,
-    "images": 0,
+    "images": 66,
     "scope": "Content present in provided saved HTML; remote image links retained."
   },
   {
@@ -35,10 +35,10 @@
     "source_url": "https://newsletter.semianalysis.com/p/inside-the-800vdc-revolution-part",
     "provided_filename": "Semi_Analysis - Inside the 800VDC Revolution – Part 1.html.1",
     "provided_sha256": "bedc9d5c19636aff0a8d7c82d6f51e88bae8edec07ab6ab295ec5c5005b9ea9d",
-    "archived_sha256": "6e6ea2e89f410624c3b3d1f030724c29eff51790cf63e3b95d2f2c45823b9040",
+    "archived_sha256": "34ded053508a5930d55ecd15bada1a3d3b0fb349de71a60bcc86fbebde80f2aa",
     "format": "HTML article archive",
     "fixed_local_image_paths": 55,
-    "images": 0,
+    "images": 55,
     "scope": "Content present in provided saved HTML; remote image links retained."
   },
   {
@@ -78,15 +78,105 @@
     "pages": 37
   },
   {
-    "file": "semianalysis-us-datacenter-capacity-2026-06-18.pdf",
+    "file": "semianalysis-us-datacenter-capacity-2026-06-18-pages-01-17.pdf",
     "title": "SemiAnalysis — Stop Saying Half of 2026 US Datacenter Capacity Is Canceled",
     "date": "2026-06-18",
     "note": null,
     "source_url": "https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter",
     "provided_filename": "Semi_Analysis - Stop Saying Half of 2026 US Datacenter Capacity Is Canceled(1).pdf",
     "provided_sha256": "c232eac9160b85b700980b9bb6020b28ddd1a5816df117179b8d849153b6a758",
-    "archived_sha256": "c232eac9160b85b700980b9bb6020b28ddd1a5816df117179b8d849153b6a758",
-    "format": "PDF unchanged",
-    "pages": 38
+    "archived_sha256": "043e2726c718396fdb5838b138cef023a02c91a7ee9e90ae2f3aeae014ec441e",
+    "format": "PDF split without recompression",
+    "pages": 17,
+    "original_page_range": [
+      1,
+      17
+    ],
+    "original_document_pages": 38
+  },
+  {
+    "file": "semianalysis-us-datacenter-capacity-2026-06-18-pages-18-20.pdf",
+    "title": "SemiAnalysis — Stop Saying Half of 2026 US Datacenter Capacity Is Canceled",
+    "date": "2026-06-18",
+    "note": null,
+    "source_url": "https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter",
+    "provided_filename": "Semi_Analysis - Stop Saying Half of 2026 US Datacenter Capacity Is Canceled(1).pdf",
+    "provided_sha256": "c232eac9160b85b700980b9bb6020b28ddd1a5816df117179b8d849153b6a758",
+    "archived_sha256": "f168453b80fec5e36c38c2012623c534cf03b8acb01f3ca543eb5a908bc12dd0",
+    "format": "PDF split without recompression",
+    "pages": 3,
+    "original_page_range": [
+      18,
+      20
+    ],
+    "original_document_pages": 38
+  },
+  {
+    "file": "semianalysis-us-datacenter-capacity-2026-06-18-pages-21-25.pdf",
+    "title": "SemiAnalysis — Stop Saying Half of 2026 US Datacenter Capacity Is Canceled",
+    "date": "2026-06-18",
+    "note": null,
+    "source_url": "https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter",
+    "provided_filename": "Semi_Analysis - Stop Saying Half of 2026 US Datacenter Capacity Is Canceled(1).pdf",
+    "provided_sha256": "c232eac9160b85b700980b9bb6020b28ddd1a5816df117179b8d849153b6a758",
+    "archived_sha256": "e25b82001a865979c279ae8a3e06f9eab379e404b0d2d95cbdeedcaad9cd3aa4",
+    "format": "PDF split without recompression",
+    "pages": 5,
+    "original_page_range": [
+      21,
+      25
+    ],
+    "original_document_pages": 38
+  },
+  {
+    "file": "semianalysis-us-datacenter-capacity-2026-06-18-pages-26-30.pdf",
+    "title": "SemiAnalysis — Stop Saying Half of 2026 US Datacenter Capacity Is Canceled",
+    "date": "2026-06-18",
+    "note": null,
+    "source_url": "https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter",
+    "provided_filename": "Semi_Analysis - Stop Saying Half of 2026 US Datacenter Capacity Is Canceled(1).pdf",
+    "provided_sha256": "c232eac9160b85b700980b9bb6020b28ddd1a5816df117179b8d849153b6a758",
+    "archived_sha256": "d7bcdc4a60468c1acf6f834e688df344a774c8c84a7df44945b5656a2a7f8354",
+    "format": "PDF split without recompression",
+    "pages": 5,
+    "original_page_range": [
+      26,
+      30
+    ],
+    "original_document_pages": 38
+  },
+  {
+    "file": "semianalysis-us-datacenter-capacity-2026-06-18-pages-31-35.pdf",
+    "title": "SemiAnalysis — Stop Saying Half of 2026 US Datacenter Capacity Is Canceled",
+    "date": "2026-06-18",
+    "note": null,
+    "source_url": "https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter",
+    "provided_filename": "Semi_Analysis - Stop Saying Half of 2026 US Datacenter Capacity Is Canceled(1).pdf",
+    "provided_sha256": "c232eac9160b85b700980b9bb6020b28ddd1a5816df117179b8d849153b6a758",
+    "archived_sha256": "e41bf96c533931a3d8d35a19a985aff75d57e45a14d6eabf40fc98f6bf30757f",
+    "format": "PDF split without recompression",
+    "pages": 5,
+    "original_page_range": [
+      31,
+      35
+    ],
+    "original_document_pages": 38
+  },
+  {
+    "file": "semianalysis-us-datacenter-capacity-2026-06-18-pages-36-38.pdf",
+    "title": "SemiAnalysis — Stop Saying Half of 2026 US Datacenter Capacity Is Canceled",
+    "date": "2026-06-18",
+    "note": null,
+    "source_url": "https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter",
+    "provided_filename": "Semi_Analysis - Stop Saying Half of 2026 US Datacenter Capacity Is Canceled(1).pdf",
+    "provided_sha256": "c232eac9160b85b700980b9bb6020b28ddd1a5816df117179b8d849153b6a758",
+    "archived_sha256": "1fffce84ca2158564cc5211967882deb7911dd3bc9ba7d6609349b8f37c37fcf",
+    "format": "PDF split without recompression",
+    "pages": 3,
+    "original_page_range": [
+      36,
+      38
+    ],
+    "original_document_pages": 38
   }
 ]

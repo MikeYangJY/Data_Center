@@ -20,7 +20,7 @@
 
 ## 新增原文资料
 
-[Stop Saying Half of 2026 US Datacenter Capacity Is Canceled](references/semianalysis-us-datacenter-capacity-2026-06-18.pdf)（SemiAnalysis，2026年6月18日）：归入建设与容量研究，尚未单独整理阅读笔记。
+[Stop Saying Half of 2026 US Datacenter Capacity Is Canceled](references/README.md#capacity-pdf)（SemiAnalysis，2026年6月18日）：归入建设与容量研究，完整38页按页码分段归档，尚未单独整理阅读笔记。
 
 ## 贯穿这些笔记的三个问题
 
